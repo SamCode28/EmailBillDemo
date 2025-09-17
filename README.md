@@ -1,5 +1,5 @@
 # EmailBillDemo
-This is the demo version of the application I currently use to generate and send monthly bills to my clients.  Personal details have been omitted for privacy.
+This is the demo version of the application I currently use to generate and send monthly bills to my clients.  Personal details and version history have been omitted for privacy.
 
 ## How to use this application:
 The program prompts you for a starting and ending date to scrape data from.
